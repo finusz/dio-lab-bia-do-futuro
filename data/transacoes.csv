@@ -25,3 +25,34 @@ data,descricao,categoria,valor,tipo
 2025-11-22,Combustível,transporte,270.00,saida
 2025-11-25,Show,lazer,200.00,saida
 2025-11-28,Freelance,receita,950.00,entrada
+2025-11-29,Padaria,alimentacao,35.00,saida
+2025-11-30,Transferência Bancária,receita,1500.00,entrada
+2025-12-01,Salário,receita,5000.00,entrada
+2025-12-02,Aluguel,moradia,1200.00,saida
+2025-12-03,Supermercado,alimentacao,480.00,saida
+2025-12-04,Manutenção Carro,transporte,600.00,saida
+2025-12-05,Disney+,lazer,45.90,saida
+2025-12-07,Farmácia,saude,75.00,saida
+2025-12-10,Restaurante,alimentacao,200.00,saida
+2025-12-12,Taxi,transporte,60.00,saida
+2025-12-15,Conta de Gás,moradia,110.00,saida
+2025-12-18,Investimento,receita,400.00,entrada
+2025-12-20,Academia,saude,99.00,saida
+2025-12-22,Combustível,transporte,280.00,saida
+2025-12-23,Viagem,lazer,1500.00,saida
+2025-12-25,Presente de Natal,lazer,350.00,saida
+2025-12-28,Freelance,receita,1200.00,entrada
+2025-12-30,Conta de Internet,moradia,130.00,saida
+2026-01-01,Salário,receita,5000.00,entrada
+2026-01-02,Aluguel,moradia,1250.00,saida
+2026-01-03,Supermercado,alimentacao,510.00,saida
+2026-01-05,Spotify,lazer,34.90,saida
+2026-01-07,Farmácia,saude,95.00,saida
+2026-01-10,Restaurante,alimentacao,180.00,saida
+2026-01-12,Ônibus,transporte,40.00,saida
+2026-01-15,Conta de Luz,moradia,190.00,saida
+2026-01-18,Investimento,receita,350.00,entrada
+2026-01-20,Academia,saude,99.00,saida
+2026-01-22,Combustível,transporte,260.00,saida
+2026-01-25,Show,lazer,220.00,saida
+2026-01-28,Freelance,receita,1000.00,entrada
