@@ -16,7 +16,6 @@
 > *"Clareza financeira para cada decisão, em cada momento."*
 
 [![DIO Lab](https://img.shields.io/badge/DIO-Lab%20Bia%20do%20Futuro-8A2BE2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://github.com/digitalinnovationone/dio-lab-bia-do-futuro)
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-22c55e?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![IA Generativa](https://img.shields.io/badge/IA-Generativa-f59e0b?style=flat-square)]()
 [![Licença](https://img.shields.io/badge/Licença-MIT-64748b?style=flat-square)]()
